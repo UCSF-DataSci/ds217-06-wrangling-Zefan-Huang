@@ -1,0 +1,20 @@
+
+Question 3 Analysis Report
+==========================
+
+Sales by Category (Total):
+                     sum          mean
+category                              
+Electronics    388800.76  35345.523636
+Sports         146883.51  13353.046364
+Home & Garden  117797.28  10708.843636
+Clothing        64934.75   5903.159091
+Books           22813.97   2073.997273
+
+Time Period:
+  - Start: 2023-01-01 00:00:00
+  - End: 2023-11-30 04:00:00
+  - Months: 11
+
+Top Category: Electronics
+Bottom Category: Books
